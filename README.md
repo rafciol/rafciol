@@ -1,5 +1,5 @@
 # 💫 About Me:
-> 🔭 I’m currently working on 👉 PsychoMedic<br>🌱 I’m currently learning on 👉 Web Develop<br>⚡ I'm just a passionate front-end developer 
+> 🔭 I’m currently working on 👉 SWS Strefa Wolności Słowa<br>🌱 I’m currently learning on 👉 Web Develop<br>⚡ I'm just a passionate front-end developer since 2018 😇
 
 
 ## 🌐 Socials:
