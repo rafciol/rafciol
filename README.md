@@ -1,7 +1,7 @@
 # 💫 About Me:
 > 🔭 I’m currently working on 👉 SWS Strefa Wolności Słowa<br>🌱 I’m currently learning 👉 Laravel, Tailwind, TypeScript<br>⚡ I'm just a passionate front-end developer since 2018 😇
 
-# 💫 My projects:
+# ⌨️ My projects:
 > https://strefawolnoslowa.pl/ - (Frontend) Code by ortografika
 > \
 > https://izba-lekarska.pl/ - (Partial participation in the frontend)
