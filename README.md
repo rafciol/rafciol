@@ -1,5 +1,5 @@
 # 💫 About Me:
-> 🔭 I’m currently working on 👉 Medipsyche - Centrum medyczne w Łodzi<br>🌱 I’m currently learning 👉 Laravel, Tailwind, TypeScript<br>⚡ I'm just a passionate front-end developer since 2018 😇
+> 🔭 Working on 👉 Medipsyche - Centrum medyczne w Łodzi<br>🌱 I use 👉 Laravel, Tailwind, TypeScript<br>⚡ Frontend developer since 2018 😇
 
 # ⌨️ My projects:
 > https://strefawolnoslowa.pl/ - Frontend
