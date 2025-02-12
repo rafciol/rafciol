@@ -1,5 +1,6 @@
-### Hi! 😁👋
-Interested in frontend since 2018 🖖
+![Header](https://github.com/rafciol/rafciol/blob/main/git%20header.png)
+
+I'm frontend developer with 1 year of experience who is passinate about making websites since 2018. I enjoy working on comercial projects from frontend side. I like talking with people about code and tech ideas.  
 >
 Projects I have participated in:
 \
