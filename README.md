@@ -1,7 +1,7 @@
 ![Header](https://github.com/rafciol/rafciol/blob/main/git%20header.png)
 
 
-I'm frontend developer with 1 year of commercial experience 🤓 who is passinate about making websites since 2018. I enjoy working on unique projects from frontend side. I like talking with people about code and tech ideas.  
+I'm frontend developer with 1 year of commercial experience 🤓 who is passionate about making websites since 2018. I enjoy working on unique projects from frontend side. I like talking with people about code and tech ideas.  
 >
 Projects I have participated in - (Frontend):
 \
